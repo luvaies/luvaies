@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luvaies.
-- By now this is an standar message. I will personalize this later.
-- 📫 How to reach me info@luvai.es
+- By now this is an standard message. I will personalize this later.
+- 📫 How to reach me: info@luvai.es
 
 <!---
 luvaies/luvaies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
